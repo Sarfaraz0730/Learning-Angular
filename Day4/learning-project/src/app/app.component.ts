@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'learning-project';
+  getName(name:any){
+    alert(name)
+  };
+  functionTwo(){
+    alert("Function two is calling")
+  }
 }
