@@ -1,0 +1,7 @@
+{
+    "port":5050,
+    "host":"locahost",
+    "dbuser":"admin",
+    "dbpass":"",
+    "dbcluster":""
+}
